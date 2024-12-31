@@ -1,6 +1,6 @@
 This library offers a DOM Style approach to animations, inspired by the popular CSS library [Animate.css](https://animate.style/). 
 It provides a programmatic way to create and apply animations directly to DOM elements, offering greater flexibility and customization. 
-
+ 
 **Usage :**
 
 - **With  [Ziko.js](https://github.com/zakarialaoui10/ziko.js) :**
